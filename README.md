@@ -4,9 +4,9 @@
 
 👨 I'm an educational leader and senior developer working in Tel-Aviv, Israel.
 
-- I'm the maintainer of [LMS](https://github.com/PythonFreeCourse/lms), an open-source system that helps manage submission and feedback on programming assignments.
-- I'm also the author of the [notebooks](https://github.com/PythonFreeCourse/Notebooks) in the Python Free Course project, which aims to help Hebrew speakers easily learn to write code.
-- I've also created a large [Telegram discussion group](https://t.me/shiftech2) where we discuss about technology news in Hebrew.
+- 👨‍💻 I'm the maintainer of [LMS](https://github.com/PythonFreeCourse/lms), an open-source system that helps manage submission and feedback on programming assignments.
+- 📖 I'm also the author of the [notebooks](https://github.com/PythonFreeCourse/Notebooks) in the Python Free Course project, which aims to help Hebrew speakers easily learn to write code.
+- 📰 I've also created a large [Telegram discussion group](https://t.me/shiftech2) where we discuss about technology news in Hebrew.
 
 🔭 I'm always after interesting technologies, cool ideas for projects, or news on technology and information security.
 
