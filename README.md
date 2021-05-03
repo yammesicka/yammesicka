@@ -8,7 +8,7 @@ I'm an educational leader and senior developer working in Tel-Aviv, Israel.
 - 📖 I'm the author of the [notebooks](https://github.com/PythonFreeCourse/Notebooks) in the Python Free Course project, which aims to help Hebrew speakers easily learn to write code.
 - 📰 I've created a large [Telegram discussion group](https://t.me/shiftech2) where we discuss about technology news in Hebrew.
 
-🔭 I'm always after interesting technologies, cool ideas for projects, or news on technology and information security.
+🔭 I'm eager to hear about interesting technologies, cool ideas for projects, or news on technology and information security.
 
 📝 It's always great to talk with former colleagues, friends, or even random people with the same interests, so feel free to drop a message in my inbox. :) 
 
