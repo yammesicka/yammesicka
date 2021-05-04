@@ -5,12 +5,12 @@
 I'm an educational leader and senior developer working in Tel-Aviv, Israel.
 
 - 👨‍💻 I'm the maintainer of [LMS](https://github.com/PythonFreeCourse/lms), an open-source system that helps manage submission and feedback on programming assignments.
-- 📖 I'm the author of the [notebooks](https://github.com/PythonFreeCourse/Notebooks) in the Python Free Course project, which aims to help Hebrew speakers easily learn to write code.
-- 📰 I've created a large [Telegram discussion group](https://t.me/shiftech2) where we discuss about technology news in Hebrew.
+- 📖 I authored the [notebooks](https://github.com/PythonFreeCourse/Notebooks) in the Python Free Course project, which aims to help Hebrew speakers easily learn to write code.
+- 📰 I've created a large [Telegram discussion group](https://t.me/shiftech2) where we discuss technology news in Hebrew.
 
-🔭 I'm eager to hear about interesting technologies, cool ideas for projects, or news on technology and information security.
+🔭 I'm eager to hear about interesting new technologies, cool ideas for projects, or news on technology and information security.
 
-📝 It's always great to talk with former colleagues, friends, or even random people with the same interests, so feel free to drop a message in my inbox. :) 
+📝 It's always great to talk with former colleagues, friends, or even random people who share the same interests, so feel free to drop a message in my inbox. :) 
 
 <a href="https://www.youtube.com/channel/UC8quF5GX0kA1RjV2K6BpHlQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-c4302b?logo=YouTube&style=for-the-badge&logoWidth=20" alt="YouTube Profile" /></a>
 <a href="https://t.me/shiftech" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088cc?logo=Telegram&style=for-the-badge" alt="Telegram Channel" /></a>
